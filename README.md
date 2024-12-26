@@ -1,0 +1,1 @@
+This repository contains a simple TypeScript program that demonstrates a type error. The program defines a function called greeter that takes a string as an argument and returns a string. The program then calls the function with an array as an argument. This causes a type error because the function expects a string, but it receives an array.
